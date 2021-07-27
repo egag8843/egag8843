@@ -4,10 +4,18 @@
 <div align = "center">
 
 <br/>
-<strong>Joyful Joy 🥳</strong><br><br>
-Hello, I'm Juhee (Joy).<br>
-My goal is to give good influence to society.<br>
-Have a day full of JOY today.
+Python, R을 기반으로 Data Engineering을 꿈꾸는 주니어 개발자 장경준입니다.<br>
+"경험이 최고의 스승이다"라는 좌우명을 바탕으로 항상 새로운 것을 도전하고 부딪히기 좋아합니다.<br>
+ 대학교 시절, 애플리케이션 개발 캡스톤 프로젝트의 팀장을 맡아 아이디어를 도출하고 팀을 이끈 경험이 있습니다. 
+ 대학교에서 프로그래밍 기초인 C, Java, 자료구조등을 배우며 흥미를 느끼기 시작했고 Kotlin언어를 이용한 안드로이드 어플 개발, 
+ 네트워크 관리/보안, 리눅스 시스템 보안, 해킹 실무, 사이버 포렌식, 데이터 마이닝 등을 배우며 개발자에 관한 꿈을 확고히 했습니다.
+ 대학교 졸업 후,
+"부산 더조은 직업전문학교"에서 5개월간의 직업 훈련과정인 "빅데이터 개발자양성" 과정을 수료했습니다. 전문학원에서 
+ HTML, CSS, Jquery, PHP, JSP, Java, Spring Boot를 이용한 Web Front-End 개발 기초과정을 익혔고
+ Python과 R을 이용한 데이터 수집 처리 및 시각화, TensorFlow등의 NLP를 이용한 머신러닝/딥러닝 과정을 익혔습니다.<br>
+ 
+ 
+ 
 
 
 <br/><br/>
@@ -29,6 +37,7 @@ Have a day full of JOY today.
   <img src="https://img.shields.io/badge/Kotlin-#0095d5?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+  <br>
  <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
