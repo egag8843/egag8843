@@ -22,6 +22,7 @@ Have a day full of JOY today.
 
 <br/><br/>
 
+ <strong> Languages and Tools: <strong><br/></br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/> 
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
