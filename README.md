@@ -17,6 +17,8 @@ Python, R을 기반으로 Data Engineering을 꿈꾸는 주니어 개발자 장�
  
  본 깃허브 Repository에는 더조은 직업전문학교에서 배운 수업자료들을 업로드 해 놓았습니다.
  
+ <a href="http://13.124.130.10:8080/Farmstory2/">MVC 모델을 활용하여 만든 웹으로 이동</a>
+ 
  
 <br/><br/>
 
