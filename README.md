@@ -36,6 +36,9 @@ Python, R을 기반으로 Data Engineering을 꿈꾸는 주니어 개발자 장�
 </li>
  <h1>:books:Certificate: </h1>
   <li> 정보처리기사</li>
+  <li> 빅데이터 분석기사 필기</li>
+  <li> ADSP (데이터분석 준전문가) </li>
+  <li> SQLD (SQL 개발자) </li>
   <li> 네트워크 관리사 2급</li>
   <li> 리눅스 마스터 2급</li>
   <li> 운전면허 1종</li>
@@ -47,13 +50,10 @@ Python, R을 기반으로 Data Engineering을 꿈꾸는 주니어 개발자 장�
   <img src="https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
-
- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 
