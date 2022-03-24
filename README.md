@@ -42,6 +42,7 @@ Python, R을 기반으로 Data Engineering을 꿈꾸는 주니어 개발자 장�
   
  <strong><h1>:seedling: Languages and Tools:</h1> </strong><br/></br>
  <img src="https://img.shields.io/badge/Apache Hadoop-#66CCFF?style=for-the-badge&logo=Apache Hadoop&logoColor=white">
+ <img src="https://img.shields.io/badge/Cloudera-#F96702?style=for-the-badge&logo=Cloudera&logoColor=white">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/> 
