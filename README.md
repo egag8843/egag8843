@@ -16,11 +16,8 @@ Python, R을 기반으로 Data Engineering을 꿈꾸는 주니어 개발자 장�
  Python과 R을 이용한 데이터 수집 처리 및 시각화, TensorFlow등의 NLP를 이용한 머신러닝/딥러닝 과정을 익혔습니다.<br><br>
  
  본 깃허브 Repository에는 더조은 직업전문학교에서 배운 수업자료들을 업로드 해 놓았습니다.
+  
  
- <a href="http://13.125.198.44:8080/Farmstory2/">MVC 모델을 활용하여 만든 웹으로 이동</a>
- 
- 
-
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjuhee0913@gmail.com)](mailto:jjuhee0913@gmail.com)
@@ -50,7 +47,8 @@ Python, R을 기반으로 Data Engineering을 꿈꾸는 주니어 개발자 장�
   <img src="https://img.shields.io/badge/Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
- 
+   <img src="https://img.shields.io/badge/Apache Hadoop-#66CCFF?style=flat-square&logo=pandas&logoColor=white"/></a>
+
  <img src="https://img.shields.io/badge/MySQL-003B57?style=flat-square&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
